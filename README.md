@@ -1,2 +1,2 @@
-# Basit-Mobil-Ma-azas-rne-i
+# Basit-Mobilya-Magazasi-Ornegi
 Android Kotlin ile Basit Mobilya Mağazası Mobil Uygulaması
